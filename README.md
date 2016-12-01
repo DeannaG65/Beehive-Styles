@@ -1,5 +1,7 @@
-# styles
+# Beehive Styles
 Downloable styles for your Beehive forum.
+
+#Installation Instructions
 
 To download, click on the style you want and you'll be taken to a page where you'll see a download button.
 
